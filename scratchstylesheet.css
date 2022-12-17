@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fef7f7;
+    background-color: rgb(103, 103, 102);
+}
+
+.div1 {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fef7f7;
+    background-color: rgb(103, 103, 102);
+}
+
+.div2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    color: #000000;
+    background-color: rgb(103, 103, 102);
+}
+
+.div3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #fef7f7;
+    background-color: rgb(103, 103, 102);
+}
+
+.div4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fef7f7;
+    background-color: rgb(103, 103, 102);
+}
+
+.hover {
+    text-decoration: wavy;
+    font-weight: bold;
+    font-size: 17px;
+}
+a:visited {
+    color: blue
+}
+.underline {
+    text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify{text-align: justify;}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    height: 39px;
+    padding-right: 5px;}
